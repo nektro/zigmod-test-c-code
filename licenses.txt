@@ -1,0 +1,4 @@
+MPL-2.0:
+= https://spdx.org/licenses/MPL-2.0
+- This
+- git https://github.com/nektro/zig-add-c
